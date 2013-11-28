@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+
+html, body {
+    height: 100%;
+}
+#wrap {
+    height: auto;
+    margin: 0 auto -60px;
+    min-height: 100%;
+    padding: 0 0 60px;
+}
+#footer {
+    background-color: #F5F5F5;
+}
+#footer, #push {
+    height: 60px;
+}
+#footer .container {
+    max-width: 680px;
+    padding: 0 15px;
+    width: auto;
+}
+#footer .container .credit {
+    margin: 20px 0;
+}
+
